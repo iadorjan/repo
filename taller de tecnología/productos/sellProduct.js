@@ -1,4 +1,4 @@
-const products = require('./addProduct').addProduct;
+const products = require('./addProduct').products;
 
 function sellProduct(name, quantity) {
     const product = products.find(product => product.name === name);
