@@ -7,7 +7,7 @@ Informe del trabajo realizado:
 	Se tomó la decisión de crear un repositorio con una carpeta que contiene dos carpetas más adentro en donde están los comandos de la empresa para el desarrollo de su sistema de gestión de ventas. Una de estas carpetas “auth” contiene los códigos de login y registro para que el usuario pueda entrar. En la otra carpeta “productos” contiene los códigos de Alta de Productos: Como usuario logueado se puede agregar productos al sistema, los cuales tienen:
  ○ Nombre ○ Descripción ○ Precio ○ Stock. También tiene el código para la Venta de Productos: Como usuario logueado se puede comprar un producto ingresando el Nombre y cantidad a comprar. En el “test.js” hay algunos códigos complementarios como verificar que se restan los productos después de la venta al total y más. Este flujo de trabajo simula un proceso básico de gestión de usuarios y productos en una aplicación. 
 
-Dejo el link a la presentación de la defensa:Obligatorio 2
+
 
 
 
