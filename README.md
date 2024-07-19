@@ -1,40 +1,19 @@
-        <p> 
-            11111111111111111111111111111111¶¶¶¶¶
-            1111111111111111111111111111111¶1__1¶¶¶ 
-            111111111111111111111111111111¶1_____1¶¶ 
-            11111111111111111111111111111¶1_111___1¶¶ 
-            1111111111111111111111111111¶1_1¶¶¶11_1¶¶ 
-            111111111111111111111111111¶1___1¶¶¶¶_1¶¶ 
-            11111111111111111111111111¶1______1¶¶_1¶¶ 
-            1111111111111111111111111¶¶¶11______1_¶¶¶¶¶¶¶
-            11111111111111¶111111111¶¶¶¶¶111______¶¶¶¶¶¶¶
-            1111111111111¶¶¶1111111¶¶___¶¶¶11______1¶¶¶¶¶
-            11111111111¶¶¶¶¶¶11111¶¶_____1¶¶¶11______1¶¶ 
-            1111111111¶¶___¶¶1111¶¶11______¶¶¶¶11___1¶¶¶ 
-            111111111¶¶____1¶¶11¶¶¶¶111______¶¶¶11_1¶¶¶ 
-            11111111¶¶______1¶¶¶1_1¶¶111______1¶¶¶1¶¶¶ 
-            1111111¶¶________1¶1____¶¶¶111______11¶¶¶ 
-            111111¶¶________11_______1¶¶¶11______¶¶¶ 
-            11111¶¶_________1¶¶1_______¶¶¶¶¶___1¶¶¶ 
-            1111¶¶__________¶¶¶¶¶1_______¶¶1_¶1¶¶¶ 
-            111¶¶1_________1¶¶¶¶¶¶¶1_________1¶¶¶ 
-            11¶¶1______¶¶1_1¶¶¶¶¶¶¶¶1________1¶¶ 
-            1¶¶1______¶¶¶¶_1¶¶¶¶¶¶¶¶¶¶1_____¶¶¶¶ 
-            1¶¶______¶¶¶1¶¶_1¶¶¶¶¶¶¶¶¶¶¶111¶¶¶¶¶ 
-            1¶¶_____¶¶¶111¶¶1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶ 
-            1¶¶____1¶¶11111¶¶_1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶ 
-            11¶¶___¶¶1111111¶¶_11¶¶¶¶¶¶¶¶¶¶¶¶ 
-            111¶¶_1¶¶11111111¶¶____¶¶¶¶¶¶¶ 
-            1111¶¶1¶¶111111111¶¶_______¶¶¶¶ 
-            11111¶¶¶1111111111¶¶________¶¶¶¶ 
-            111111¶¶11111111111¶¶_________¶¶¶¶¶ 
-            11111111111111111111¶¶__________¶¶¶ 
-            111111111111111111111¶¶________¶¶¶ 
-            1111111111111111111111¶¶______¶¶¶ 
-            1111111111111111111111¶¶_____¶¶¶ 
-            11111111111111111111111¶¶___¶¶¶ 
-            111111111111111111111111¶¶_¶¶¶ 
-            1111111111111111111111111¶¶¶¶
-            
-            </p>
-    </body>
+Documentación:
+Decisiones tomadas por el equipo:
+Nosotros como equipo elegimos resolver el problema 27 debido a que mezclaba cosas aprendidas en el taller cómo poner el repositorio en GitHub y  usar “Gitflow”, con cosas aprendidas en Programación 1 como JavaScript.
+Decidimos hacer una carpeta “taller de tecnologías” en donde se van a encontrar otras dos carpetas con los códigos que se piden.
+
+Informe del trabajo realizado:
+	Se tomó la decisión de crear un repositorio con una carpeta que contiene dos carpetas más adentro en donde están los comandos de la empresa para el desarrollo de su sistema de gestión de ventas. Una de estas carpetas “auth” contiene los códigos de login y registro para que el usuario pueda entrar. En la otra carpeta “productos” contiene los códigos de Alta de Productos: Como usuario logueado se puede agregar productos al sistema, los cuales tienen:
+ ○ Nombre ○ Descripción ○ Precio ○ Stock. También tiene el código para la Venta de Productos: Como usuario logueado se puede comprar un producto ingresando el Nombre y cantidad a comprar. En el “test.js” hay algunos códigos complementarios como verificar que se restan los productos después de la venta al total y más. Este flujo de trabajo simula un proceso básico de gestión de usuarios y productos en una aplicación. 
+
+Dejo el link a la presentación de la defensa:Obligatorio 2
+
+
+
+
+
+
+
+
+
